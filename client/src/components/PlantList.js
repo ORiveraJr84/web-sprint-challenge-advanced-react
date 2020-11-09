@@ -8,7 +8,7 @@ export default class PlantList extends Component {
     super();
     this.state = {
       plants: [],
-      addToCart: { useForm },
+      // addToCart: { useForm },
     };
   }
   // when the component mounts:
